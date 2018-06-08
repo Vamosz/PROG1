@@ -1,1 +1,1 @@
-# Prog1
+# Második féléves prog1-es anyagok.
